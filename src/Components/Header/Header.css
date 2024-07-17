@@ -1,0 +1,45 @@
+.container-fluid
+{
+    background-color: rgba(52,53,58,255);
+    max-height: fit-content;
+    
+}
+.my-name
+{
+  display: inline-block;
+  opacity: 0;
+  animation: fadeInLetter 0.5s forwards;
+  color:#cdb970;
+  margin-top :20%;
+  margin-left: 10%;
+}
+.intro
+{
+  display: inline-block;
+  opacity: 0;
+  animation: fadeInLetter 0.5s forwards;
+  color:white;
+  margin-left:10%;
+  
+}
+
+.contact-btn
+{
+    margin-bottom: 0%;
+    margin-left:10%;
+    border:2px solid #cdb970; 
+    color: #cdb970;
+    margin-top: 1%;
+}
+
+.contact-btn:hover
+{
+    background: #cdb970;
+    color: black;
+}
+.my-img
+{
+    height: 90%;
+   
+
+}

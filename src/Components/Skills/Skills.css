@@ -1,0 +1,38 @@
+.container-fluid
+{
+    background-color: rgba(52,53,58,255);
+}
+.hiding
+{
+    color: white;
+    
+}
+.skills
+{
+    padding-top: 3%;
+    color:white;
+   padding-left: 5%;
+
+
+  
+   
+}
+.main
+{
+    padding-top: 7%;
+}
+.skill
+{
+    border-radius: 30px;
+    border: 2px solid #cdb970;
+    width: 20%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.skill:hover{
+    background-color: #c2aa53;
+    color: black;
+}
+
+

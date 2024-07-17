@@ -1,0 +1,22 @@
+
+  
+  .nav-link {
+    color: white;
+  }
+  
+  .active {
+    color: #cdb970;
+    border-bottom: 2px solid #cdb970;
+  }
+  
+  .nav-link:hover {
+    color: #cdb970;
+  }
+  .navbar {
+    position: sticky;
+    top: 0;
+    background-color: rgba(52,53,58,255);
+    z-index: 1000;
+    transition: background-color 0.3s ease;
+  }
+  

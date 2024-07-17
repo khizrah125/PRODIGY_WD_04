@@ -1,0 +1,26 @@
+.container-fluid
+{
+    background-color: rgba(52,53,58,255);
+}
+.hiding
+{
+    color: #cdb970;
+    padding-left: 10%;
+    padding-right: 3%;
+}
+.content
+{
+    
+    padding-right: 5%;
+    color: white;
+    margin-bottom: 7%;
+    justify-content: end;
+}
+.edu-content
+{
+    padding-left: 17%;
+    color: white;
+}
+.about{
+    padding-top: 10%;
+}

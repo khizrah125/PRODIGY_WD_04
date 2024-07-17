@@ -1,0 +1,20 @@
+.container-fluid
+{
+    background-color: rgba(52,53,58,255);
+   
+}
+.portfolio
+{
+  padding-top:10% ;
+  padding-bottom: 5%;
+}
+.video {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+
+  .tech
+  {
+    color: #cdb970; ;
+  }
